@@ -1,0 +1,14 @@
+# list domains in here you want to block with the pihole_block.sh script
+# and which will get unblocked with the pihole_unblock.sh script
+
+# youtube domains
+www.youtube.com
+m.youtube.com
+googlevideo.com
+ytimg.l.google.com
+ytimg.com
+
+youtu.be
+
+roblox.com
+web.roblox.com
